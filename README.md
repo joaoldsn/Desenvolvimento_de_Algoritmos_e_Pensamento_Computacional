@@ -107,6 +107,7 @@ As atividades deste repositório utilizam principalmente:
 ## Estudante
 
 **João Leite**
+
 **Curso:** Análise e Desenvolvimento de Sistemas
 
 ---
