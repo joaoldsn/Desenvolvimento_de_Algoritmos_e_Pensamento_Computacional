@@ -82,8 +82,8 @@ Desenvolvimento_de_Algoritmos_e_Pensamento_Computacional/
 │   ├── calculadora.c
 │   └── README.md
 │
-├── 📁 Calculadora_em_Flowgorithm/
-│   ├── Calculadora-Flowgorithm.fprg
+├── 📁 calculadora-flowgorithm/
+│   ├── calculadora.fprg
 │   └── README.md
 │
 └── 📄 README.md
