@@ -99,6 +99,11 @@ desafio-monitoramento/
     └── teste03.png
 ```
 
+## QUESTÃO FINAL DE REFLEXÃO
+
+Escolhi utilizar uma combinação de `do...while` e `while` porque cada estrutura se adapta melhor a uma parte do algoritmo. O `do...while` foi utilizado na validação do limite de temperatura, garantindo que o usuário informe o valor pelo menos uma vez antes de verificar se ele é válido. Já o `while` foi utilizado no monitoramento, permitindo que as temperaturas sejam recebidas continuamente enquanto a condição de segurança não for atingida. A diferença entre testar a condição antes ou depois foi importante principalmente na validação do limite, pois ele precisa ser solicitado ao usuário antes da verificação.
+
+
 ## Tecnologias
 
 * **Linguagem:** C
